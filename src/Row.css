@@ -11,9 +11,9 @@
     padding: 20px;
 }
 
-/* .row__posters::-moz-scroll{
-    display: none;
-} */
+.row__posters::-webkit-scrollbar{
+    visibility: hidden;
+}
 
 .row_poster{
     max-height: 100px;
