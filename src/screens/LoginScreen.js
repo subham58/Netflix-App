@@ -26,7 +26,7 @@ const LoginScreen = () => {
             <h2>Watch Anywhere. Cancel at any time.</h2>
             <h3>
               Ready to watch? Enter your email to create or restart your
-              membership
+              memberships
             </h3>
 
             <div className="loginScreen_input">
